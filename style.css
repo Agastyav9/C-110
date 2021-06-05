@@ -1,0 +1,46 @@
+body 
+{
+    font-family: 'Special Elite' , cursive;
+    background-color:darksalmon
+}
+
+.header_div
+{
+    background: white;
+}
+
+#g
+{
+    height: 200px;
+    width: 200px; ;
+}
+
+.footer_div
+{
+    background: white;
+    margin-bottom: 50px;
+
+}
+
+#v
+{
+    width: 70px;
+}
+
+.main_div
+{
+    background: #ffd2c7;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.footer_div h4
+{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+
